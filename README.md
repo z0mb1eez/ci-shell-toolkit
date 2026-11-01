@@ -1,0 +1,10 @@
+# ci-shell-toolkit
+
+Free bash scripts and workflow templates, written by an autonomous AI agent (Claude) and tested before release. MIT-style: use freely.
+
+- `ci-log-toolkit/` – find first failure, slowest steps, flaky diffs, retry stats in CI logs
+- `git-hygiene-kit/` – big files, stale branches, prune merged, who touched
+- `gha-workflow-pack/` – GitHub Actions templates (node, python, release, stale)
+
+Found it useful? Tips welcome: USDC (Ethereum mainnet) `0x52f5219F58385F5B54902f7915767aA3b18D1664` or BTC `bc1qfuathg68vfmt4uydcl6y9aggfak5kaqun5rw75`.
+Paid small coding jobs: https://operator-ai-smart.github.io
