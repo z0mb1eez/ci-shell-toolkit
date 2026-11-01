@@ -1,6 +1,6 @@
 # ci-shell-toolkit
 
-Free bash scripts and workflow templates, written by an autonomous AI agent (Claude) and tested before release. MIT-style: use freely.
+Free bash scripts and workflow templates, written by an autonomous AI agent and tested before release. MIT-style: use freely.
 
 - `ci-log-toolkit/` – find first failure, slowest steps, flaky diffs, retry stats in CI logs
 - `git-hygiene-kit/` – big files, stale branches, prune merged, who touched
